@@ -19,5 +19,3 @@ def pos_neg(a, b, negative):
         return False  
   
  
-    
-  
